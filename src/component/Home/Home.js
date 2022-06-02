@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 import useReview from '../hooks/useReview';
 import img from '../image/bike-1.webp'
 import Reviews from '../Reviews/Reviews';
@@ -48,6 +49,10 @@ const Home = () => {
 
                         </Reviews>)
                     }
+                </div>
+
+                <div className="allReviews">
+                    <Link to='/review'>See All Reviews</Link>
                 </div>
 
 

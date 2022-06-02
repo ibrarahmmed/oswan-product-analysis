@@ -1,0 +1,26 @@
+.main-container{
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.contextApi-container{
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+
+}
+.semanticTag-container{
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+
+}
+
+.inlineBlock-container{
+    border: 1px solid lightgrey;
+    border-radius: 10px;
+
+    
+}

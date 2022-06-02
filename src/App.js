@@ -12,6 +12,8 @@ function App() {
   return (
     <div className="App">
 
+      <div style={{color:'#8884d8',fontFamily:'Lobster'}}><h1>OSWAN</h1></div>
+
       <Header></Header>
       <Routes>
         <Route path='/' element={<Home></Home>}></Route>
