@@ -1,0 +1,33 @@
+.main-container{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 20px;
+    padding: 70px 50px;
+}
+
+p{
+    margin-right: 84px;
+}
+
+.investment{
+    color: #8884d8;
+    
+}
+
+.revenue{
+    color: #82ca9d;
+   
+}
+
+.radar-chart{
+    margin-top: 0px;
+   padding-left: 60px;
+
+}
+
+.composed-chart{
+
+    padding-top: 110px;
+    padding-left: 40px;
+
+}

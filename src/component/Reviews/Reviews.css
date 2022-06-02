@@ -1,0 +1,15 @@
+.card-container{
+    height: 400px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+
+.card-container img{
+    height: 200px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.card-container p{
+    padding: 0px 20px;
+}
